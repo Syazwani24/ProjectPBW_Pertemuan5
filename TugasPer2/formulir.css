@@ -1,0 +1,19 @@
+header{
+    text-align: center; /* Mengatur teks pada header menjadi rata tengah */
+    line-height: center; /* Menetapkan tinggi baris pada header menjadi 70% dari ukuran default */
+}
+
+form {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    text-align: justify; /* Mengatur teks di dalam body menjadi rata kanan kiri */
+    font-size: 18px;  /* Mengatur ukuran font di dalam body */
+    color: rgb(16, 16, 17) (23, 23, 23); /* Mengatur warna teks di dalam body menjadi hitam */
+    background-color: rgb(244, 242, 244);
+    margin-top: 2px; /* Memberikan margin atas sebesar piksel */
+    margin-left: 5cm; /* Memberikan margin kiri sebesar piksel */
+    margin-right: 5cm; /* Memberikan margin kanan sebesar piksel */
+    margin-bottom: 10px; /* Memberikan margin bawah sebesar piksel */
+    
+}
+

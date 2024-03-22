@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;    /* jenis huruf pada teks */
+    font-size: 15px;            /* ukuran huruf pada teks */
+    margin: auto;               /* memusatkan seluruh konten halaman web */
+    width: 500px;               /* mengatur lebar */
+    margin-top: 50px;           /* mengatur batas atau margin atas web dengan konten*/
+    text-align: center;         /* mengatur teks rata tengah */
+}
+table {
+    border-collapse: collapse;     /* mengatur batas antar sel */
+    margin-top: 30px;              /* mengatur batas atau margin atas web dengan konten*/
+}
+h1 {
+    margin-bottom: 1;       /* mengatur batas bawah judul dengan konten*/
+}
+h2 {
+    margin-top: 0;       
+}

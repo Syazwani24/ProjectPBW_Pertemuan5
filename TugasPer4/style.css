@@ -1,0 +1,26 @@
+header {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
+.logo {
+    width: 1cm ;
+    height: 1cm ;
+}
+
+.brand {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+.card {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,30 @@
+header{
+    text-align: center; /* Mengatur teks pada header menjadi rata tengah */
+    line-height: 70%; /* Menetapkan tinggi baris pada header menjadi 70% dari ukuran default */
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify; /* Mengatur teks di dalam body menjadi rata kanan kiri */
+    font-size: 18px;  /* Mengatur ukuran font di dalam body */
+    color: black (23, 23, 23); /* Mengatur warna teks di dalam body menjadi hitam */
+    margin-top: 30px; /* Memberikan margin atas sebesar 30 piksel */
+    margin-left: 250px; /* Memberikan margin kiri sebesar 250 piksel */
+    margin-right: 250px; /* Memberikan margin kanan sebesar 250 piksel */
+    margin-bottom: 70px; /* Memberikan margin bawah sebesar 70 piksel */
+}
+
+#large-s {
+    font-size: 30px; /* Mengatur ukuran font untuk elemen dengan ID "large-s" */
+    font-weight: bold; /* Mengatur tebal font untuk elemen dengan ID "large-s" menjadi tebal */
+    color: black; /* Mengatur warna teks untuk elemen dengan ID "large-s" menjadi hitam */
+}
+
+
+p{
+/* HSL */
+color: hsl(0, 1%, 43%); /* Mengatur warna teks untuk semua elemen <p> menjadi warna abu-abu */
+}
+
+[title]{
+    color: dodgerblue; /* Mengatur warna teks untuk elemen dengan atribut "title" menjadi warna biru terang */
+}
